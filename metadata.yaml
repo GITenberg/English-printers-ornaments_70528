@@ -1,0 +1,38 @@
+_repo: English-printers-ornaments_70528
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Plomer, Henry R. (Henry Robert)
+    aliases:
+    - Plomer, H. R. (Henry Robert)
+    - Plomer, Henry Robert
+    birthdate: 1856
+    deathdate: 1928
+    gutenberg_agent_id: '9272'
+    url: http://www.gutenberg.org/2009/agents/9272
+description: ''
+gutenberg_issued: '2023-04-11'
+identifiers:
+  gutenberg: '70528'
+  lccn: '24012721'
+language: en
+pgterms:marc904: https://archive.org/details/b31347873/page/n7/mode/2up
+pgterms:marc905: 20211105144131plomer
+pgterms:marc906: '1924'
+pgterms:marc907: GB
+production_note: Charlene Taylor, Karin Spence and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bGrafton & Co., $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Book ornamentation'
+- !lcsh 'Printers'' ornaments -- England -- History'
+- !lcsh 'Printers'' ornaments -- England -- Specimens'
+- !lcsh 'Type and type-founding -- England -- Specimens'
+- !lcc 'Z'
+- GITenberg
+title: English printers' ornaments
+url: http://www.gutenberg.org/ebooks/70528
