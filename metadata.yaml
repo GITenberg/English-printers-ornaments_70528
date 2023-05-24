@@ -1,5 +1,8 @@
 _repo: English-printers-ornaments_70528
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70528-h/images/cover.jpg
 creator:
   author:
     agent_name: Plomer, Henry R. (Henry Robert)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '9272'
     url: http://www.gutenberg.org/2009/agents/9272
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70528#English-printers-ornaments
 gutenberg_issued: '2023-04-11'
 identifiers:
   gutenberg: '70528'
